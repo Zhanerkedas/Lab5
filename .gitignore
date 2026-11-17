@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+audit_report.csv
+server.pid
+run_all.bat
+capture.ps1
+push_to_github.bat
+_*
+upload_github.bat
+screenshots/__init.png
+capture_v2.ps1
